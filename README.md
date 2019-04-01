@@ -56,7 +56,8 @@ jmeter 文档说明
 
 ### 配置原件（Config Element）
 
-
+用于提供对静态数据配置的支持。CSV Date Set Config可以将本地数据文件形成数据池（Date Pool），
+而对应于HTTP Request Configuration 和 TCP Request Sample等类型的Configuration元件则可以修改这些Sample的默认数据等
 
 ## Jmeter GUI 设置中文页面
 
