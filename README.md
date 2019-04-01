@@ -18,6 +18,12 @@ jmeter 文档说明
 
 ## 相关概念
 
+结构图
+
+![结构图](结构图.png)
+
+
+
 ### threads（users）线程
 
 - Setup thread group
