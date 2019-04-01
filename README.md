@@ -20,13 +20,13 @@ jmeter 文档说明
 
 ### threads（users）线程
 
-- Setup thread group：  
+- Setup thread group
     一种特殊类型的线程，可用于执行预测试操作。即执行测试前进行定期线程组的执行
 
-- Teardown thread group：  
+- Teardown thread group
     一种特殊类型的线程，可用于执行测试后动作。即执行测试结束后执行定期的线程组
 
-- Thread group：  
+- Thread group
     通常添加使用的线程，一般一个线程组可看做一个虚拟用户组，其中每个线程为一个虚拟用户
 
 
