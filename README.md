@@ -63,5 +63,7 @@ find --name jmeter.properties /
 
 
 
-## 
+## 参考资料
+
 - [《jmeter：菜鸟入门到进阶》系列](https://www.cnblogs.com/imyalost/p/7062784.html)
+- [JMeter的基本介绍和入门](http://www.51testing.com/html/54/n-854654.html)
