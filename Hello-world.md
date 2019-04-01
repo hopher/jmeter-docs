@@ -4,6 +4,7 @@
 
 ![img](Hello-word/测试计划.png)
 
+![img](Hello-word/测试计划2.png)
 
 1. 安装 && 运行
 
