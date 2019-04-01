@@ -11,9 +11,9 @@ jmeter 文档说明
 |-- 其它
 ```
 
-## 第一个 Hello world 入门
+## 快速入门
 
-- [Hello-world](Hello-world.md)
+- [请戳这里](Hello-world.md)
 
 
 ## 相关概念
